@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
             ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 17, 63, 187)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'My App'),
+      home: const MyHomePage(title: 'Les Copaings'),
     );
   }
 }

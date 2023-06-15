@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.SEND_SMS"/>
     <application
-        android:label="les_copaingsv2"
+        android:label="Copaings"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
